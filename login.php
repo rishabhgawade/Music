@@ -44,7 +44,7 @@ echo "<script>alert('Invalid Details');</script>";
 <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>       
         <title>Onlind DJ Management System - Login Page</title>
-        <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
+        <link rel="stylesheet" id="css-main" href="codebase.min.css">
     </head>
     <body>
       
