@@ -9,7 +9,7 @@
              <li><a href="about.php"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>About</a></li>
              <li><a href="services.php"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>Services</a></li>
              <li><a href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>Contact</a></li>
-             <li><a href="admin/login.php"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span>Admin</a></li>
+             <li><a href="login.php"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span>Admin</a></li>
              </ul>
          </div>
          <div class="clearfix"></div>
